@@ -7,3 +7,5 @@ coordinates(states) <- c("x", "y")
 proj4string(states) <- CRS("+proj=longlat +ellps=clrk66")
 summary(states)
 states
+
+#Adding a comment line
