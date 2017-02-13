@@ -1,3 +1,4 @@
+install.packages("rgdal")
 library(rgdal)
 
 data(state)
