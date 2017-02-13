@@ -1,0 +1,6 @@
+language: r
+cache: packages
+sudo: false
+
+repos:
+  CRAN: https://cloud.r-project.org
